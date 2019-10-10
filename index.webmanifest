@@ -2,8 +2,8 @@
   "name": "Noam Hoffer",
   "short_name": "Noam Hoffer",
   "lang": "en-us",
-  "theme_color": "#795548",
-  "background_color": "#795548",
+  "theme_color": "hsl(339, 90%, 68%)",
+  "background_color": "hsl(339, 90%, 68%)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
