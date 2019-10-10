@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Noam Hoffer</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Noam Hoffer</title>
+    <link>/authors/noam-hoffer/</link>
+      <atom:link href="/authors/noam-hoffer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noam Hoffer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>2</title>
-      <link>/publication_types/2/</link>
+      <title>Noam Hoffer</title>
+      <link>/authors/noam-hoffer/</link>
     </image>
     
     <item>
@@ -25,6 +25,14 @@
       <link>/publication/hoffer-2016-hoftrb-3/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/hoffer-2016-hoftrb-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kant&#39;s Religion and the Reflective Judgment</title>
+      <link>/publication/hoffer-2013-hofkra/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/hoffer-2013-hofkra/</guid>
       <description></description>
     </item>
     
