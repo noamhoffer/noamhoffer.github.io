@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noam Hoffer</title>
-    <link>https://noamhoffer.github.io/</link>
-      <atom:link href="https://noamhoffer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://noamhoffer.github.io/author/</link>
+      <atom:link href="https://noamhoffer.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     <description>Noam Hoffer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://noamhoffer.github.io/images/icon_hu7fb1eca5389ee459b73c06c1fce42237_11396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://noamhoffer.github.io/author/avatar_hue508e4af6739d969c334a1977de4dae5_11190_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Noam Hoffer</title>
-      <link>https://noamhoffer.github.io/</link>
+      <link>https://noamhoffer.github.io/author/</link>
     </image>
     
   </channel>
